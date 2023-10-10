@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoriavdang!
-- 👀 I’m interested in contributing to opensource projects through documentation and technical writing.
+- 👀 I’m interested in contributing to opensource projects through documentation.
 - 🌱 I’m currently learning front-end languages :D
   
 - 📫 How to reach me : victoriavividang@gmail.com
